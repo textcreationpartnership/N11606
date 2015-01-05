@@ -116,8 +116,8 @@
    <text xml:lang="eng">
       <front>
          <div type="illustration">
-            <pb facs="tcp:014668_0000_0F948CABB67E2A30"/>
-            <pb facs="tcp:014668_0001_0F948CB00E6B6FD0"/>
+            <pb facs="unknown:014668_0000_0F948CABB67E2A30"/>
+            <pb facs="unknown:014668_0001_0F948CB00E6B6FD0"/>
             <p>
                <figure>
                   <head>THE DEATH OF WARREN</head>
@@ -125,7 +125,7 @@
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:014668_0002_0F948CB214F5DC28"/>
+            <pb facs="unknown:014668_0002_0F948CB214F5DC28"/>
             <p>THE BATTLE OF BUNKERS-HILL. A DRAMATIC PIECE, OF FIVE ACTS, IN HEROIC MEASURE.</p>
             <p>BY A GENTLEMAN OF MARYLAND.</p>
             <q>
@@ -139,7 +139,7 @@
             <p>PHILADELPHIA: Printed and Sold by ROBERT BELL, in Third-Street. MDCCLXXVI.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:014668_0003_0F948CB37771BDA8"/>
+            <pb facs="unknown:014668_0003_0F948CB37771BDA8"/>
             <head>TO RICHARD STOCKTON, ESQUIRE; MEMBER OF THE HONOURABLE, THE CONTINENTAL CONGRESS, FOR THE STATE OF NEW-JERSEY.</head>
             <opener>
                <salute>SIR,</salute>
@@ -147,7 +147,7 @@
             <p>I TAKE the Freedom to Inscribe with YOUR Name, the following short Performance in Honour of some brave MEN, who have fallen in the Cause of LIBERTY.</p>
             <p>IT was at first drawn up for an Exercise in Oratory, to a number of young Gentlemen in a southern Academy, but being now Published, may serve the same Purpose, in other AMERICAN Seminaries.</p>
             <p>
-               <pb facs="tcp:014668_0004_0F948CB3F8A09500"/>THE many Civilities, received from YOUR Family, at an earlier Period of my Life, while a Student at NEW-JERSEY College, demand the warmest Gratitude; and I do continually, with the most sincere Pleasure, recollect and acknow<g ref="char:EOLhyphen"/>ledge them.</p>
+               <pb facs="unknown:014668_0004_0F948CB3F8A09500"/>THE many Civilities, received from YOUR Family, at an earlier Period of my Life, while a Student at NEW-JERSEY College, demand the warmest Gratitude; and I do continually, with the most sincere Pleasure, recollect and acknow<g ref="char:EOLhyphen"/>ledge them.</p>
             <p>IT is my fervent wish, that the Ruler of the Universe may Crown with Success, the Cause of FREEDOM, and speedily relieve our bleeding Country in whose Service YOU have distinguish<g ref="char:EOLhyphen"/>edly exerted YOUR eminent Abilities, by assist<g ref="char:EOLhyphen"/>ing HER Deliberations in the grand Council of the Empire.</p>
             <closer>
                <salute>SIR,</salute>
@@ -156,7 +156,7 @@
             </closer>
          </div>
          <div type="prologue">
-            <pb facs="tcp:014668_0005_0F948CB4C99742E0"/>
+            <pb facs="unknown:014668_0005_0F948CB4C99742E0"/>
             <head>PROLOGUE TO THE BATTLE OF BUNKERS-HILL.</head>
             <byline>By a Lieutenant Colonel in the CONTINENTAL ARMY.</byline>
             <lg>
@@ -177,7 +177,7 @@
                <l>For when we read the fatal story o'er,</l>
                <l>One tear shall drop for him who is—no more.</l>
                <l>
-                  <pb facs="tcp:014668_0006_0F948CB5859D4950"/>
+                  <pb facs="unknown:014668_0006_0F948CB5859D4950"/>
 Who nobly struggled to support our laws,</l>
                <l>And bravely fell in freedom's sacred cause</l>
             </lg>
@@ -204,7 +204,7 @@ Who nobly struggled to support our laws,</l>
             </lg>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:014668_0007_0F948CB65413B988"/>
+            <pb facs="unknown:014668_0007_0F948CB65413B988"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <item>AMERICAN OFFICERS.
@@ -231,7 +231,7 @@ Who nobly struggled to support our laws,</l>
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:014668_0008_0F948CB8E52CC110"/>
+            <pb facs="unknown:014668_0008_0F948CB8E52CC110"/>
             <head>THE BATTLE OF BUNKERS-HILL.</head>
             <div n="1" type="act_and_scene">
                <head>ACT I. SCENE I.</head>
@@ -248,7 +248,7 @@ Who nobly struggled to support our laws,</l>
                   <l>In yon fair City, famishing for bread;</l>
                   <l>For not fond mothers or their weeping babes</l>
                   <l>
-                     <pb n="6" facs="tcp:014668_0009_0F948CB9507F6380"/>
+                     <pb n="6" facs="unknown:014668_0009_0F948CB9507F6380"/>
 Can move the hard heart of relentless GAGE.</l>
                   <l>Perfidious man! Who pledg'd his oath so late,</l>
                   <l>And word of honour to those patriots</l>
@@ -277,7 +277,7 @@ Can move the hard heart of relentless GAGE.</l>
                   <l>And meet in equal fight our hostile arms.</l>
                   <l>For yet they well remember LEXINGTON,</l>
                   <l>
-                     <pb n="7" facs="tcp:014668_0010_0F948CB9F93B7958"/>
+                     <pb n="7" facs="unknown:014668_0010_0F948CB9F93B7958"/>
 And what they suffer'd on that rueful day,</l>
                   <l>When wantoning in savage rage, they march'd</l>
                   <l>Onward to CONCORD, in a firm array,</l>
@@ -304,7 +304,7 @@ And what they suffer'd on that rueful day,</l>
                   <l>And rescue thence, the suff'ring citizens.</l>
                   <l>For but one pass to that peninsula,</l>
                   <l>
-                     <pb n="8" facs="tcp:014668_0011_0F948CBAB8F50A18"/>
+                     <pb n="8" facs="unknown:014668_0011_0F948CBAB8F50A18"/>
 On which the city stands, on all sides barr'd.</l>
                   <l>And here what numbers can supply the rage,</l>
                   <l>Of the all devouring, deep mouth'd cannon, plac'd,</l>
@@ -329,7 +329,7 @@ On which the city stands, on all sides barr'd.</l>
                   <l>When dubious darkness on the land is spread,</l>
                   <l>A chosen band may pierce their sep'rate fleet,</l>
                   <l>
-                     <pb n="9" facs="tcp:014668_0012_0F948CBBB6DA7EE8"/>
+                     <pb n="9" facs="unknown:014668_0012_0F948CBBB6DA7EE8"/>
 And in swift boats, across the narrow tide,</l>
                   <l>Pour like a flame, on their unguarded ranks,</l>
                   <l>And wither them: As when an Angel smote,</l>
@@ -356,7 +356,7 @@ And in swift boats, across the narrow tide,</l>
                   <l>Intrench on BUNKERS HILL; and when the day,</l>
                   <l>First, o'er the hill top rises, we shall join</l>
                   <l>
-                     <pb n="10" facs="tcp:014668_0013_0F948CBE41256560"/>
+                     <pb n="10" facs="unknown:014668_0013_0F948CBE41256560"/>
 United arms, against the assailing foe,</l>
                   <l>Should they attempt to cross the narrow tide,</l>
                   <l>In deep battalion to regain the hill.</l>
@@ -385,7 +385,7 @@ United arms, against the assailing foe,</l>
                   <l>So many thousands, of BRITANNIA'S troops,</l>
                   <l>With watch incessant, and fore toil oppress'd,</l>
                   <l>
-                     <pb n="11" facs="tcp:014668_0014_0F948CBEA7F0EA20"/>
+                     <pb n="11" facs="unknown:014668_0014_0F948CBEA7F0EA20"/>
 Remain besieg'd? A vetr'an army pent,</l>
                   <l>In the inclosure, of so small a space,</l>
                   <l>By a disorder'd herd, untaught, unofficer'd.</l>
@@ -413,7 +413,7 @@ Remain besieg'd? A vetr'an army pent,</l>
                   <l>With holy bible, and continual prayer,</l>
                   <l>Bear up their fortitude—and talk of heav'n,</l>
                   <l>
-                     <pb n="12" facs="tcp:014668_0015_0F948CC0C7028E40"/>
+                     <pb n="12" facs="unknown:014668_0015_0F948CC0C7028E40"/>
 And tell them, that sweet soul, who dies in battle,</l>
                   <l>Shall walk, with spirits of the just. These words,</l>
                   <l>Add wings to native rage, and hurry them</l>
@@ -441,7 +441,7 @@ And tell them, that sweet soul, who dies in battle,</l>
                      </gap>ton, they stormed Louisburg.</l>
                   <l>With us in Canada, they took Quebec;</l>
                   <l>
-                     <pb n="13" facs="tcp:014668_0016_0F948CC175CA66A8"/>
+                     <pb n="13" facs="unknown:014668_0016_0F948CC175CA66A8"/>
 And at the Havannah, these NEW-ENGLAND MEN,</l>
                   <l>Led on by PUTNAM, acted gallantly.</l>
                   <l>I had a brother once, who in that war,</l>
@@ -468,7 +468,7 @@ And at the Havannah, these NEW-ENGLAND MEN,</l>
                   <l>On this, their madding continent, who cry,</l>
                   <l>Where is the BRITISH valour: that renown</l>
                   <l>
-                     <pb n="14" facs="tcp:014668_0017_0F948CC35A344080"/>
+                     <pb n="14" facs="unknown:014668_0017_0F948CC35A344080"/>
 Which spoke in thunder, to the Gallic shores?</l>
                   <l>That spirit is evaporate, that fire;</l>
                   <l>Which erst distinguish'd them, that flame;</l>
@@ -495,7 +495,7 @@ Which spoke in thunder, to the Gallic shores?</l>
                   <l>Of rich rewards, in lands and settlements,</l>
                   <l>From the confiscate property throughout,</l>
                   <l>
-                     <pb n="15" facs="tcp:014668_0018_0F948CC477CA2678"/>
+                     <pb n="15" facs="unknown:014668_0018_0F948CC477CA2678"/>
 These rebel colonies, at length subdu'd;</l>
                   <l>Then march we forth, beat up their drowsy camp,</l>
                   <l>And with the sun, to this safe capital,</l>
@@ -515,7 +515,7 @@ These rebel colonies, at length subdu'd;</l>
                </sp>
             </div>
             <div type="act_and_scene">
-               <pb n="16" facs="tcp:014668_0019_0F948CC699988550"/>
+               <pb n="16" facs="unknown:014668_0019_0F948CC699988550"/>
                <head>ACT III. SCENE I.</head>
                <head>BUNKERS-HILL.</head>
                <stage>
@@ -549,7 +549,7 @@ These rebel colonies, at length subdu'd;</l>
                </sp>
             </div>
             <div n="4" type="act">
-               <pb n="17" facs="tcp:014668_0020_0F948CC6B8A08948"/>
+               <pb n="17" facs="unknown:014668_0020_0F948CC6B8A08948"/>
                <head>ACT IV.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -577,7 +577,7 @@ These rebel colonies, at length subdu'd;</l>
                      <l>Of GEORGE and BRITAIN, is endangered.</l>
                      <l>For nobly struggling, in the cause of kings,</l>
                      <l>
-                        <pb n="18" facs="tcp:014668_0021_0F948CC7793C2920"/>
+                        <pb n="18" facs="unknown:014668_0021_0F948CC7793C2920"/>
 We claim the high, the just prerogative,</l>
                      <l>To rule mankind, and with an iron rod,</l>
                      <l>Exact submission, due, tho' absolute.</l>
@@ -605,7 +605,7 @@ We claim the high, the just prerogative,</l>
                      <l>Descry'd their aim, and gave the swift alarm.</l>
                      <l>Our glasses mark, but one small regiment there,</l>
                      <l>
-                        <pb n="19" facs="tcp:014668_0022_0F948CC841BEE640"/>
+                        <pb n="19" facs="unknown:014668_0022_0F948CC841BEE640"/>
 Yet, ev'ry hour we languish in delay,</l>
                      <l>Inspires fresh hope, and fills their pig'my souls,</l>
                      <l>With thoughts of holding it. You hear the sound</l>
@@ -632,7 +632,7 @@ Yet, ev'ry hour we languish in delay,</l>
                         <hi>Exeunt</hi> BURGOYNE <hi>and</hi> HOWE.</stage>
                   </sp>
                   <sp>
-                     <pb n="20" facs="tcp:014668_0023_0F948CC90976B2F0"/>
+                     <pb n="20" facs="unknown:014668_0023_0F948CC90976B2F0"/>
                      <speaker>GAGE. <hi>Solus.</hi>
                      </speaker>
                      <l>May Heaven, protect us, from their rage, I say,</l>
@@ -654,7 +654,7 @@ Yet, ev'ry hour we languish in delay,</l>
                   </sp>
                </div>
                <div n="2" type="scene">
-                  <pb n="21" facs="tcp:014668_0024_0F948CC9BB07C548"/>
+                  <pb n="21" facs="unknown:014668_0024_0F948CC9BB07C548"/>
                   <head>SCENE II.</head>
                   <head>HOWE with the British Army.</head>
                   <sp>
@@ -682,7 +682,7 @@ Yet, ev'ry hour we languish in delay,</l>
                      <l>For the best blood of ENGLAND, shed for them.</l>
                      <l>Behold yon hill, where fell rebellion rears,</l>
                      <l>
-                        <pb n="22" facs="tcp:014668_0025_0F948CCBD6BB5218"/>
+                        <pb n="22" facs="unknown:014668_0025_0F948CCBD6BB5218"/>
 Her snake-stream'd ensign, and would seem to brave</l>
                      <l>With scarce seven hundred, this sea-bounded Camp,</l>
                      <l>Where may be counted, full ten thousand men,</l>
@@ -711,7 +711,7 @@ Her snake-stream'd ensign, and would seem to brave</l>
                </div>
             </div>
             <div n="5" type="act">
-               <pb n="23" facs="tcp:014668_0026_0F948CCC0F8CED30"/>
+               <pb n="23" facs="unknown:014668_0026_0F948CCC0F8CED30"/>
                <head>ACT V.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -741,7 +741,7 @@ Her snake-stream'd ensign, and would seem to brave</l>
                      <l>With lawless sovereignty. Now added force,</l>
                      <l>Of standing armies, to secure their sway.</l>
                      <l>
-                        <pb n="24" facs="tcp:014668_0027_0F948CCCC5E362A0"/>
+                        <pb n="24" facs="unknown:014668_0027_0F948CCCC5E362A0"/>
 Much, have we suffer'd from the licens'd rage,</l>
                      <l>Of brutal soldiery, in each fair town.</l>
                      <l>Remember march, brave countrymen, that day</l>
@@ -769,7 +769,7 @@ Much, have we suffer'd from the licens'd rage,</l>
                   </sp>
                </div>
                <div n="2" type="scene">
-                  <pb n="25" facs="tcp:014668_0028_0F948CCDE7F704A0"/>
+                  <pb n="25" facs="unknown:014668_0028_0F948CCDE7F704A0"/>
                   <head>SCENE II.</head>
                   <head>BUNKERS-HILL.</head>
                   <sp>
@@ -797,7 +797,7 @@ Much, have we suffer'd from the licens'd rage,</l>
                      <l>Who claim, our fair possessions, and set down,</l>
                      <l>These cultur'd-farms, and bowry-hills, and plains,</l>
                      <l>
-                        <pb n="26" facs="tcp:014668_0029_0F948CCE5B41D050"/>
+                        <pb n="26" facs="unknown:014668_0029_0F948CCE5B41D050"/>
 As the rich prize, of certain victory.</l>
                      <l>Shall we, the sons of MASSACHUSETTS-BAY,</l>
                      <l>NEW HAMPSHIRE, and CONNECTICUT; shall we</l>
@@ -815,7 +815,7 @@ As the rich prize, of certain victory.</l>
                   </sp>
                </div>
                <div n="3" type="scene">
-                  <pb n="27" facs="tcp:014668_0030_0F948CD073484FA8"/>
+                  <pb n="27" facs="unknown:014668_0030_0F948CD073484FA8"/>
                   <head>SCENE III.</head>
                   <head>BOSTON.</head>
                   <head>The British Army being Repuls'd, SHERWIN is dispatch'd to General GAGE, for Assistance.</head>
@@ -845,7 +845,7 @@ As the rich prize, of certain victory.</l>
                   </sp>
                </div>
                <div n="4" type="scene">
-                  <pb n="28" facs="tcp:014668_0031_0F948CD09236DF50"/>
+                  <pb n="28" facs="unknown:014668_0031_0F948CD09236DF50"/>
                   <head>SCENE IV.</head>
                   <head>WARREN.</head>
                   <stage>Mortally wounded, falling on his right knee, covering his breast with his right hand, and supporting himself with his firelock in his left.</stage>
@@ -871,7 +871,7 @@ As the rich prize, of certain victory.</l>
                      <l>Weep not your Gen'ral, who is snatch'd this day,</l>
                      <l>From the embraces of a family,</l>
                      <l>
-                        <pb n="29" facs="tcp:014668_0032_0F948CD1368E4B18"/>
+                        <pb n="29" facs="unknown:014668_0032_0F948CD1368E4B18"/>
 Five virgin daughters young, and unendow'd,</l>
                      <l>Now with the foe left lone and fatherless.</l>
                      <l>Weep not for him who first espous'd the cause</l>
@@ -902,7 +902,7 @@ Five virgin daughters young, and unendow'd,</l>
                   </sp>
                </div>
                <div n="5" type="scene">
-                  <pb n="30" facs="tcp:014668_0033_0F948CD3762E02A8"/>
+                  <pb n="30" facs="unknown:014668_0033_0F948CD3762E02A8"/>
                   <head>SCENE V.</head>
                   <head>CHARLESTOWN.</head>
                   <stage>
@@ -932,7 +932,7 @@ Five virgin daughters young, and unendow'd,</l>
                   </sp>
                </div>
                <div n="6" type="scene">
-                  <pb n="31" facs="tcp:014668_0034_0F948CD398C4CA30"/>
+                  <pb n="31" facs="unknown:014668_0034_0F948CD398C4CA30"/>
                   <head>SCENE VI.</head>
                   <head>BUNKERS-HILL.</head>
                   <sp>
@@ -960,7 +960,7 @@ Five virgin daughters young, and unendow'd,</l>
                   </sp>
                </div>
                <div n="7" type="scene">
-                  <pb n="32" facs="tcp:014668_0035_0F948CD5054F5448"/>
+                  <pb n="32" facs="unknown:014668_0035_0F948CD5054F5448"/>
                   <head>SCENE VII.</head>
                   <head>The BAY-SHORE.</head>
                   <stage>
@@ -994,7 +994,7 @@ Five virgin daughters young, and unendow'd,</l>
                   </sp>
                </div>
                <div n="8" type="scene">
-                  <pb n="31" facs="tcp:014668_0036_0F948CD5D02CCEE0"/>
+                  <pb n="31" facs="unknown:014668_0036_0F948CD5D02CCEE0"/>
                   <head>SCENE VIII.</head>
                   <head>BUNKERS-HILL.</head>
                   <stage>GARDINER <hi>desperately wounded and borne from the field by two Soldiers.</hi>
@@ -1013,7 +1013,7 @@ Five virgin daughters young, and unendow'd,</l>
                   </sp>
                </div>
                <div n="9" type="scene">
-                  <pb n="32" facs="tcp:014668_0037_0F948CD684E7FF28"/>
+                  <pb n="32" facs="unknown:014668_0037_0F948CD684E7FF28"/>
                   <head>SCENE IX.</head>
                   <sp>
                      <speaker>PUTNAM,</speaker>
@@ -1041,7 +1041,7 @@ Five virgin daughters young, and unendow'd,</l>
                   </sp>
                </div>
                <div n="10" type="scene">
-                  <pb n="33" facs="tcp:014668_0038_0F948CD740EF4200"/>
+                  <pb n="33" facs="unknown:014668_0038_0F948CD740EF4200"/>
                   <head>SCENE X. and Last.</head>
                   <head>BUNKERS-HILL.</head>
                   <stage>The American Army overpower'd by numbers, are obliged to retreat.</stage>
@@ -1072,7 +1072,7 @@ Five virgin daughters young, and unendow'd,</l>
                      <l>Huge stones were hurled from the rocky brow,</l>
                      <l>And war renew'd, by these inveterate;</l>
                      <l>
-                        <pb n="34" facs="tcp:014668_0039_0F948CD951BC5820"/>
+                        <pb n="34" facs="unknown:014668_0039_0F948CD951BC5820"/>
 'Till GARD'NER wounded, the left wing gave way,</l>
                      <l>And with their shatter'd infantry, the whole,</l>
                      <l>Drawn off by PUTNAM, to the causeway fled,</l>
@@ -1102,7 +1102,7 @@ Five virgin daughters young, and unendow'd,</l>
                      <l>Of these AMERICANS.—</l>
                   </sp>
                   <sp>
-                     <pb n="35" facs="tcp:014668_0040_0F948CD9A91E0BF8"/>
+                     <pb n="35" facs="unknown:014668_0040_0F948CD9A91E0BF8"/>
                      <speaker>HOWE.</speaker>
                      <l>E'en in an enemy I honour worth,</l>
                      <l>And valour eminent. The vanquish'd foe,</l>
@@ -1126,7 +1126,7 @@ Five virgin daughters young, and unendow'd,</l>
                      <l>Or parent woe-ful for an only son,</l>
                      <l>Through mourning BRITAIN, and HIBIRNIA'S Isle.</l>
                      <stage>
-                        <pb n="36" facs="tcp:014668_0041_0F948CDA556D84F8"/>
+                        <pb n="36" facs="unknown:014668_0041_0F948CDA556D84F8"/>
                         <hi>Enter</hi> BURGOYNE <hi>from</hi> BOSTON.</stage>
                      <l>Oft have I read, in the historic page,</l>
                      <l>And witnessed myself, high scenes in war:</l>
@@ -1158,7 +1158,7 @@ Five virgin daughters young, and unendow'd,</l>
             </div>
          </div>
          <div type="epilogue">
-            <pb facs="tcp:014668_0042_0F948CDB2F4286A8"/>
+            <pb facs="unknown:014668_0042_0F948CDB2F4286A8"/>
             <head>EPILOGUE.</head>
             <head>Written by a GENTLEMAN of the ARMY.</head>
             <stage>Supposed to be spoken, immediately after the Battle; By Lieutenant Colonel WEBB, Aid de camp to General PUTNAM.</stage>
@@ -1183,7 +1183,7 @@ Five virgin daughters young, and unendow'd,</l>
             <l>Observe yon stripling bath'd in purple gore,</l>
             <l>He bleeds for FREEDOM on his native shore.</l>
             <l>
-               <pb facs="tcp:014668_0043_0F948CDC0FC21690"/>
+               <pb facs="unknown:014668_0043_0F948CDC0FC21690"/>
 His livid eyes in drear convulsions roll,</l>
             <l>While from his wounds escapes the flutt'ring soul,</l>
             <l>Breathless and naked on th' ensanguin'd plain,</l>
@@ -1214,7 +1214,7 @@ His livid eyes in drear convulsions roll,</l>
             <l>Who fights for FREEDOM,—fights the cause of HEAV'N.</l>
          </div>
          <div type="poem">
-            <pb facs="tcp:014668_0044_0F948CDC81A6F170"/>
+            <pb facs="unknown:014668_0044_0F948CDC81A6F170"/>
             <head>AN ODE on the Battle of BUNKERS-HILL, Sung and Acted by a Soldier in a Military Habit, with his Firelock, &amp;c.</head>
             <head type="sub">In the same Measure with a Sea Piece, Entitled the TEMPEST.</head>
             <p>—Cease rude BOREAS, blust'ring railer—</p>
@@ -1238,7 +1238,7 @@ His livid eyes in drear convulsions roll,</l>
                <l>" Bellow to Britannia's sons.</l>
             </div>
             <div n="2" type="stanza">
-               <pb n="40" facs="tcp:014668_0045_0F948CDD4E96C1A8"/>
+               <pb n="40" facs="unknown:014668_0045_0F948CDD4E96C1A8"/>
                <head>II.</head>
                <l>Now think you see, three thousand moving,</l>
                <l>Up the brow of BUNKERS-HILL,</l>
@@ -1258,7 +1258,7 @@ His livid eyes in drear convulsions roll,</l>
                <l>" That shot brought six standards down."</l>
             </div>
             <div n="3" type="stanza">
-               <pb n="41" facs="tcp:014668_0046_0F948CDE22C96928"/>
+               <pb n="41" facs="unknown:014668_0046_0F948CDE22C96928"/>
                <head>III.</head>
                <l>Maids in virgin beauty blooming,</l>
                <l>On Britannia's sea-girt isle,</l>
@@ -1278,7 +1278,7 @@ His livid eyes in drear convulsions roll,</l>
                <l>" The slipp'ry brow of BUNKERS-HILL."</l>
             </div>
             <div n="4" type="stanza">
-               <pb n="42" facs="tcp:014668_0047_0F948CE1A3366780"/>
+               <pb n="42" facs="unknown:014668_0047_0F948CE1A3366780"/>
                <head>IV.</head>
                <l>Unkindest fortune, still thou changest,</l>
                <l>As the wind upon the wave,</l>
@@ -1298,7 +1298,7 @@ His livid eyes in drear convulsions roll,</l>
                <l>" We are yet five hundred strong.</l>
             </div>
             <div n="5" type="stanza">
-               <pb n="43" facs="tcp:014668_0048_0F948CE3C5172578"/>
+               <pb n="43" facs="unknown:014668_0048_0F948CE3C5172578"/>
                <head>V.</head>
                <l>Many a widow sore bewailing</l>
                <l>Tender husbands, shall remain,</l>
@@ -1318,7 +1318,7 @@ His livid eyes in drear convulsions roll,</l>
                <l>" Ammunition is quite gone".</l>
             </div>
             <div n="6" type="stanza">
-               <pb n="44" facs="tcp:014668_0049_0F948CE4FAD591B8"/>
+               <pb n="44" facs="unknown:014668_0049_0F948CE4FAD591B8"/>
                <head>VI.</head>
                <l>See the steely points, bright gleaming,</l>
                <l>In the sun's fierce dazling ray,</l>
@@ -1339,7 +1339,7 @@ His livid eyes in drear convulsions roll,</l>
             </div>
          </div>
          <div type="speech">
-            <pb n="45" facs="tcp:014668_0050_0F948CE5844F2258"/>
+            <pb n="45" facs="unknown:014668_0050_0F948CE5844F2258"/>
             <head>BY GENERAL WASHINGTON, On his entering the Town of BOSTON, at the Head of the AMERICAN ARMY, after the BRITISH TROOPS were by his skilful Approaches obliged to abandon it.</head>
             <l>AUSPICIOUS day, of happiness unmix'd!</l>
             <l>When this fair City, without blood-shed won,</l>
@@ -1360,7 +1360,7 @@ His livid eyes in drear convulsions roll,</l>
             <l>O happy town—Now let thy buildings smile,</l>
             <l>Thy streets, run down, with silver floods of joy,</l>
             <l>
-               <pb n="46" facs="tcp:014668_0051_0F948CE648CC6930"/>
+               <pb n="46" facs="unknown:014668_0051_0F948CE648CC6930"/>
 And from thy temples, loudly, hymn and song,</l>
             <l>Sweep, the high arches, of resounding Heaven.</l>
             <l>Yes fellow soldiers, let us bend to him</l>
@@ -1383,7 +1383,7 @@ And from thy temples, loudly, hymn and song,</l>
             <l>You all are bridegrooms, to fair joy to day.</l>
          </div>
          <div type="song">
-            <pb facs="tcp:014668_0052_0F948CE6FB0757E8"/>
+            <pb facs="unknown:014668_0052_0F948CE6FB0757E8"/>
             <head>A MILLITARY SONG, BY THE ARMY:</head>
             <head>On General WASHINGTON'S victorious entry into the Town of BOSTON.</head>
             <div n="1" type="stanza">
@@ -1415,7 +1415,7 @@ And from thy temples, loudly, hymn and song,</l>
                <l>They shall plough the purple wave.</l>
             </div>
             <div n="5" type="stanza">
-               <pb n="48" facs="tcp:014668_0053_0F948CE7BA15EB38"/>
+               <pb n="48" facs="unknown:014668_0053_0F948CE7BA15EB38"/>
                <head>V.</head>
                <l>Should they thence, to fair VIRGIN'Y</l>
                <l>Bend a squadron to DUNMORE,</l>
@@ -1444,7 +1444,7 @@ And from thy temples, loudly, hymn and song,</l>
                <l>Shall discharge these Hords again.</l>
             </div>
             <div n="9" type="stanza">
-               <pb n="49" facs="tcp:014668_0054_0F948CE8820837C8"/>
+               <pb n="49" facs="unknown:014668_0054_0F948CE8820837C8"/>
                <head>IX.</head>
                <l>In NEW-YORK State, rejoin'd by CLINTON,</l>
                <l>Should their standards mock the air,</l>
@@ -1477,7 +1477,7 @@ And from thy temples, loudly, hymn and song,</l>
       </body>
       <back>
          <div type="publishers_advertisement">
-            <pb facs="tcp:014668_0055_0F948CE96C3DC670"/>
+            <pb facs="unknown:014668_0055_0F948CE96C3DC670"/>
             <opener>
                <dateline>
                   <hi>Philadelphia,</hi> 
